@@ -1,17 +1,3 @@
-
-
-
-          
-我需要先查看当前readme.md的内容，确认其中提到的不存在的内容（如“东邪”）具体位置，以便进行精准删除和重写。
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: c:\Users\26937\Desktop\12306购票项目\12306购票\readme.md
-          
 ### 12306爬虫购票项目 README
 
 ## 项目简介
